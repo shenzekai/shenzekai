@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zekai Shen</h1>
+<h1 align="center">Hi 👋, I'm Shen Zekai</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenzekai&label=Profile%20views&color=0e75b6&style=flat" alt="shenzekai" /> </p>
 
 <h3 align="left">Connect with me:</h3>
